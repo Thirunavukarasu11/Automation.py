@@ -1,0 +1,16 @@
+[
+  {
+    "domain": ".ohiosos.gov",
+    "expirationDate": 1747644688.899094,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "Ox5XbOJG8myf98hFj5en66Adv7atdrDRe_dDyKqK33k-1747642888-1.0.1.1-Xtb0kQ1sgXolPERcOUpd2Gf_d5YAMfvJy1JbGtASZmWeGqGBArQr3vXetiSY0eOqYOBarxFlKMadTyoWKP9AJoPJYD68MZT_q86ByD0Czns",
+    "id": 1
+  }
+]
